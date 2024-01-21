@@ -23,14 +23,14 @@ This project is licensed under the [MIT License](LICENSE_LINK).
 
 ---
 
-# Blueprints için Basit Oyun Yetenekleri Sistemi
+# Blueprints için Basit Ability System
 
-Bu proje, Blueprints için basit bir oyun yetenekleri sistemi sunmaktadır.
+Bu proje, Blueprints için basit bir ability system sunmaktadır.
 
 ## Özellikler
 
-- **AbilityComponent**: Yetenekler için Temel Bileşen
-- **GameplayTag Kullanımı**: Yetenekler, GameplayTag'leri kullanır
+- **AbilityComponent**: Abilityler için Temel Bileşen
+- **GameplayTag Kullanımı**: Abilityler, GameplayTag'leri kullanır
 
 ## Yapılacaklar
 
